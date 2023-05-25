@@ -1,0 +1,6 @@
+# Ignore data files for simulation
+datafile.dat
+
+# Ignore configuraton text file
+binaryfile.txt
+
