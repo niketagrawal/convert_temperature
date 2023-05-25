@@ -4,3 +4,5 @@ datafile.dat
 # Ignore configuraton text file
 binaryfile.txt
 
+#Ignore all object files
+directory/
